@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 18.2.5.v20180129-1916_48?>
+<!--Topaz for Total Test 18.2.5.v20180129-1916_48 Mar 3, 2018 6:48:00 PM-->
+<testsuites>
+  <testsuite errors="0" failures="0" name="Project: 'testdb2' Scenario: 'CWXTDB2_Scenario' Testcase: 'CWXTDB2Case1'" tests="2">
+    <testcase classname="Project: 'testdb2' Scenario: 'CWXTDB2_Scenario' Testcase: 'CWXTDB2Case1'" name="Check for PARM_LTH"/>
+    <testcase classname="Project: 'testdb2' Scenario: 'CWXTDB2_Scenario' Testcase: 'CWXTDB2Case1'" name="Check for PARM_DATA"/>
+  </testsuite>
+</testsuites>

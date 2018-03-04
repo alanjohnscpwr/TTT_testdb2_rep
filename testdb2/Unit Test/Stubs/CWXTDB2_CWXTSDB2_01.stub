@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Unit%20Test/Stubs/CWXTDB2_CWXTSDB2_01.stub" stubtype="Program" target="CWXTSDB2" token="30000">
+  <stub:description>Created: Feb 26, 2018 9:45:28 AM</stub:description>
+  <stub:stubdata id="0" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F2F5F2F300000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output0.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output0.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="1" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F2F3F3F400000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output1.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output1.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="2" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F6F7F4F500000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output2.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output2.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="3" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F0F7F6F500000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output3.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output3.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="4" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F4F1F4F700000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output4.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output4.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="5" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F1F5F6F800000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output5.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output5.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="6" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F0F9F5F900000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output6.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output6.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="7" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F2F0F1F000000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output7.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output7.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="8" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F3F2F4F100000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output8.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output8.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="9" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F1F3F4F300000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output9.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output9.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="10" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F5F2F1F300000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output10.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output10.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="11" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F2F1F7F100000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output11.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output11.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+  <stub:stubdata id="12" name="CWXTSDB2">
+    <stub:interface>../Interfaces/CWXTDB2_CWXTSDB2.interface#Unit%20Test/Interfaces/CWXTDB2_CWXTSDB2.interface</stub:interface>
+    <stub:output listructure="../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#Unit%20Test/Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS" id="arg0.WS_LINK_FIELDS">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F3F2F1F500000000000C</properties:property>
+        </properties:properties>
+      </stub:data>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_NUM" id="output12.arg0.WS_LINK_FIELDS.L_EMP_NUM" offset="0"/>
+      <stub:data baseType="listructure:numberType ../Structures/CWXTDB2_CWXTSDB2_WS-LINK-FIELDS.listructure#WS_LINK_FIELDS.L_EMP_YTD_COMP" id="output12.arg0.WS_LINK_FIELDS.L_EMP_YTD_COMP" offset="5"/>
+    </stub:output>
+  </stub:stubdata>
+</stub:stub>

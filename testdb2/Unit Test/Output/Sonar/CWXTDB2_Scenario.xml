@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 18.2.5.v20180129-1916_48?>
+<!--Topaz for Total Test 18.2.5.v20180129-1916_48 Mar 3, 2018 6:48:00 PM-->
+<testExecutions version="1">
+  <file path="C:\Users\cpwr01\.jenkins\workspace\testdb2_git_rep\testdb2\Unit Test\Scenarios\CWXTDB2_Scenario.testscenario">
+    <testCase duration="0" name="Project: 'testdb2' Scenario: 'CWXTDB2_Scenario' Testcase: 'CWXTDB2Case1' Test: Check for PARM_LTH'"/>
+    <testCase duration="0" name="Project: 'testdb2' Scenario: 'CWXTDB2_Scenario' Testcase: 'CWXTDB2Case1' Test: Check for PARM_DATA'"/>
+  </file>
+</testExecutions>
